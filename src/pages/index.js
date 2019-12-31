@@ -1,3 +1,11 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+function Index(props) {
+    return (
+        <div>
+            Iván León
+        </div>
+    );
+}
+
+export default Index;
